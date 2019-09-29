@@ -40,7 +40,7 @@ To run this module in the terminal:
 node pokemartManager.js
 ```
 
-## Supervisor Module
+## Supervisor Module "in progress"
 
 The supervisor module lets supervisors view product sales by departments and add new departments.
 
