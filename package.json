@@ -1,0 +1,19 @@
+{
+  "name": "poke-mart",
+  "version": "1.0.0",
+  "description": "bamazon",
+  "main": "pokemartCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Systallium/Poke-Mart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Systallium/Poke-Mart/issues"
+  },
+  "homepage": "https://github.com/Systallium/Poke-Mart#readme"
+}
